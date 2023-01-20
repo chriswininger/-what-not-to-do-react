@@ -14,6 +14,12 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
+### Videos:
+
+The following video walkthroughs are available:
+
+* [Example 1](https://youtu.be/CsC8X6aZEUg)
+
 ### Note
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
