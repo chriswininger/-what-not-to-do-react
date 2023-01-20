@@ -1,0 +1,21 @@
+.wntdr__example-one__example {
+  display: flex;
+  column-gap: 2rem;
+  row-gap: 2rem;
+  flex-wrap: wrap;
+  flex-direction: row;
+  margin-bottom: 1rem;
+}
+
+.wntdr__example-one section {
+  max-width: 450px;
+}
+
+.wntdr__example-one__check-wrapper {
+  margin-bottom: 1rem;
+  display: block;
+}
+
+.wntdr__example-one__bad-nested-component input {
+  width: 100%;
+}
